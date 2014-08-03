@@ -1,6 +1,6 @@
 {
     "name": "kirchbergerknorr/onestepcheckout",
-    "description": "Heidelpay",
+    "description": "Onestepcheckout",
     "keywords": ["magento", "onestepcheckout", "checkout"],
     "homepage": "http://onestepcheckout.com/",
     "type": "magento-module",
