@@ -1,0 +1,7 @@
+app/etc/modules/Idev_OneStepCheckout.xml app/etc/modules/Idev_OneStepCheckout.xml
+app/code/local/Idev/OneStepCheckout/* app/code/local/Idev/OneStepCheckout/
+app/design/frontend/base/default/layout/onestepcheckout.xml app/design/frontend/base/default/layout/onestepcheckout.xml
+app/design/frontend/base/default/template/onestepcheckout/* app/design/frontend/base/default/template/onestepcheckout/
+app/locale/de_DE/* app/locale/de_DE/
+app/locale/en_US/* app/locale/en_US/
+skin/frontend/base/default/images/heidelpay/* skin/frontend/base/default/images/heidelpay/
